@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "\"# Library-App-API\"",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,14 +14,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/leeleonard936/Library-App-API/issues"
   },
-  "homepage": "https://github.com/leeleonard936/Library-App-API#readme",
-  "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^5.3.0",
-    "mongodb": "^7.7.0"
-  }
+  "homepage": "https://github.com/leeleonard936/Library-App-API#readme"
 }
